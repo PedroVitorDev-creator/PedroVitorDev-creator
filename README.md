@@ -23,6 +23,9 @@
 ## Vou aprender
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" width="40" />
+
+
+
                   
 
 ## Contatos:
@@ -35,8 +38,18 @@
 </div>
 ## Hi there 👋
 
-<!--
-**PedroVitorDev-creator/PedroVitorDev-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://github.com/PedroVitorDev-creator">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVitorDev-creatori&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?PedroVitorDev-creator=PedroVitorDev-creator-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
+![Snake animation](https://github.com/PedroVitorDev-creator/PedroVitorDev-creator/blob/output/github-contribution-grid-snake.svg)
+
+
+<!--**PedroVitorDev-creator/PedroVitorDev-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
